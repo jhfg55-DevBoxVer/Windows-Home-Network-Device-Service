@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Directives>
+	<Application>
+		<!-- 保留整个插件程序集 -->
+		<Assembly Name="Web API" Dynamic="Required All" />
+
+	</Application>
+</Directives>
